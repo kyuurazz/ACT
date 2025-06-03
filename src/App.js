@@ -19,10 +19,10 @@ function App() {
         <section id="join" className="w-full bg-black">
           <Join />
         </section>
-        <section id="kegiatan" className="w-full bg-white py-20">
+        <section id="kegiatan" className="w-full bg-white pt-7">
           <Kegiatan />
         </section>
-        <section id="faq" className="w-full bg-black">
+        <section id="faq" className="w-full bg-black pt-7">
           <FAQ />
         </section>
       </main>
