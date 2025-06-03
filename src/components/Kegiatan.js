@@ -26,6 +26,11 @@ const kegiatanData = [
     title: 'Gathering & Meet up',
     desc: 'Berkumpul dan berbincang terkait tren teknologi dan bersenang-senang.',
   },
+  {
+    img: 'gathering.png',
+    title: 'Gathering & Meet up',
+    desc: 'Berkumpul dan berbincang terkait tren teknologi dan bersenang-senang.',
+  },
 ];
 
 export default function Kegiatan() {
