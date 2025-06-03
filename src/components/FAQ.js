@@ -40,7 +40,7 @@ export default function FAQ() {
   };
 
   return (
-    <section id="faq" className="relative w-full py-20 px-6 text-gray-300 overflow-hidden bg-black">
+    <section id="faq" className="relative w-full pt-10 px-6 text-gray-300 overflow-hidden bg-black">
       <div className="relative max-w-7xl mx-auto">
         <h2 className="text-4xl font-extrabold mb-12 text-white text-center">
           Frequently Asked Questions
