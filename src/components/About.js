@@ -23,7 +23,7 @@ export default function About() {
     <section
       id="about"
       ref={aboutRef}
-      className={`w-full bg-black py-20 px-6 md:flex md:items-center md:space-x-20 max-w-7xl mx-auto transition-opacity duration-1000 ${
+      className={`w-full bg-black pt-20 pb-10 px-6 md:flex md:items-center md:space-x-20 max-w-7xl mx-auto transition-opacity duration-1000 ${
         visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
       }`}
       style={{ transitionProperty: 'opacity, transform' }}
